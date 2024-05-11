@@ -1,0 +1,21 @@
+.box{
+    border: 1px solid #DB00FF;
+    height: 168px;
+    width: 305px;
+}
+.box1{
+    border: 3px dashed #450E4E;
+    height: 121px;
+    width: 657px;
+}
+.box2{
+    border: 13px solid #04FF4A;
+    height: 95px;
+    width: 399px;
+}
+.box3{
+    border: 3px solid #736E42;
+    height: 173px;
+    width: 1097px;
+    background-color: #247DAF;
+}
